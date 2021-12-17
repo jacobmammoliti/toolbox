@@ -1,3 +1,5 @@
+[![Toolbox CI](https://github.com/jacobmammoliti/toolbox/actions/workflows/main.yml/badge.svg)](https://github.com/jacobmammoliti/toolbox/actions/workflows/main.yml)
+
 # toolbox
 Lightweight container image designed for debugging, based on Alpine.
 
