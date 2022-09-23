@@ -1,4 +1,4 @@
-FROM alpine:3.15
+FROM alpine:3.16
 
 RUN apk --update --no-cache add \
     curl bind-tools netcat-openbsd jq fish coreutils openssl busybox-extras sudo vim nano
